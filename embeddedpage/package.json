@@ -9,6 +9,7 @@
     "iframe": "^1.0.0",
     "meteor-node-stubs": "~0.2.4",
     "react": "^15.6.1",
+    "react-countdown-clock": "^2.0.0",
     "react-dom": "^15.6.1",
     "react-iframe": "^1.0.7",
     "react-timeout": "^1.0.1",

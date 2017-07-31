@@ -1,8 +1,31 @@
 /* CSS declarations go here */
-div{
-	margin-left: 150px;
+#whole{
+	margin-left: 250px;
 	margin-top: 0px; 
 	margin-bottom: 0px;
 	margin-right: 150px;
-
+}
+#counter{
+	margin-left: 0px;
+	margin-top: 50px; 
+	margin-bottom: 50px;
+	margin-right: 50px;
+}
+#frame{
+	margin-left: 0px;
+	margin-top: 50px; 
+	margin-bottom: 50px;
+	margin-right: 50px;
+}
+#next{
+	margin-left: 1200px;
+	margin-top: 50px; 
+	margin-bottom: 50px;
+	margin-right: 0px;
+}
+#paragraph{
+margin-left: 500px;
+	margin-top: 50px; 
+	margin-bottom: 50px;
+	margin-right: 0px;
 }

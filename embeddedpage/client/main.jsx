@@ -3,7 +3,7 @@ import { render  } from 'react-dom';
 import { Meteor } from 'meteor/meteor'
 import App from '../imports/client/App';
 import Iframe from 'react-iframe';
-import ReactTimeout from 'react-timeout';
+import ReactCountdownClock from 'react-countdown-clock';
 
 
 	Meteor.startup(function(){
